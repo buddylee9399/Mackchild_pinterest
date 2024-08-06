@@ -87,3 +87,8 @@ end
   gem "rolify"
 
   gem "pundit"
+gem "sassc-rails"
+gem "image_processing"
+gem 'haml'
+gem 'masonry-rails'
+gem 'acts_as_votable'
